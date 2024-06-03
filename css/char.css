@@ -1,0 +1,14 @@
+  @import url("https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One");
+  html{
+    background-color: #f6f6f6;
+  }
+  body {font-family:"Pathway Gothic One", sans-serif; line-height: 160%; font-size: 26px;  margin: 0; }
+  path.link {
+    fill: none;
+    stroke-width: 1px;
+  }
+  .node:not(:hover) .nodetext {
+    display: none;
+  }
+  h1 { font-size: 46px; margin: 10px 0; text-transform: uppercase; font-weight: normal;}
+  header {padding: 20px; position: absolute; top: 0; left: 0;}
