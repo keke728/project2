@@ -15,7 +15,7 @@ vis = d3.select("#vis").append("svg").attr("width", w).attr("height", h);
 
 
 // Load the data
-d3.json("../Ghibli/ghibli.json", function(error, data) {
+d3.json("https://raw.githubusercontent.com/keke728/project2/main/Ghibli/ghibli.json", function(error, data) {
     if (error) {
         console.error("JSON failed to load:", error);
         return;
