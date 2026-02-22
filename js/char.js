@@ -15,19 +15,17 @@ vis = d3.select("#vis").append("svg").attr("width", w).attr("height", h);
 
 
 // Load the data
-d3.json("https://raw.githubusercontent.com/keke728/ATLS5630_WebFrontendDevlopment/master/Ghibli/ghibli.json", function(data) {
-  root = data;
-  root.fixed = true;
-  root.x = w / 2;
-  root.y = h / 4;
+d3.json("../Ghibli/ghibli.json", function(error, data) {
+    if (error) {
+        console.error("JSON failed to load:", error);
+        return;
+    }
 
-// Build the path
-  var defs = vis.insert("svg:defs")
-      .data(["end"]);
-
-  defs.enter().append("svg:path")
-      .attr("d", "M0,-5L10,0L0,5");
-     update();
+    root = data;
+    root.fixed = true;
+    root.x = w / 2;
+    root.y = h / 4;
+    update();
 });
 
 

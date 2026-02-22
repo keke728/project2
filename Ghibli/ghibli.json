@@ -1,0 +1,260 @@
+{
+ "img": "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Ghibli.jpg",
+ "children": [
+  {
+   "name": "Princess Mononoke",
+   "img":  "https://m.media-amazon.com/images/I/81jSJRqb9IL._SY522_.jpg",
+   "children": [
+    {
+      "name": "Ashitaka",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Ashitaka.png",
+      "size": 40000
+    },
+    {
+      "name": "San",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/San.png",
+      "size": 40000
+    },
+    {
+      "name": "Moro",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Moro.png",
+      "size": 40000
+    },
+    {
+      "name": "Shishigami",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Shishigami.png",
+      "size": 40000
+    },
+    {
+      "name": "Hii-sama",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Hii-sama.png",
+      "size": 40000
+    },
+    {
+      "name": "Yakul",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Yakul.png",
+      "size": 40000
+    },
+    {
+      "name": "Eboshi",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Eboshi.png",
+      "size": 40000
+    },
+    {
+      "name": "Forest Spirit",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Forest_Spirit.png",
+      "size": 40000
+    },
+    {
+      "name": "Gonza",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Gonza.png",
+      "size": 40000
+    },
+    {
+      "name": "Jigo",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Jigo.png",
+      "size": 40000
+    }
+  ]
+  },
+
+  {
+   "name": "Kiki's Delivery Service",
+   "img":  "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/340/2024/12/26120915/Aufa4YdZIv4AXpR9rznwVA5SEfd-scaled.jpg",
+   "children": [
+     {
+       "name": "Tombo",
+       "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Tombo.png",
+       "size": 40000
+     },
+     {
+       "name": "Jiji",
+       "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Jiji.png",
+       "size": 40000
+     },
+     {
+       "name": "Kiki",
+       "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Kiki.png",
+       "size": 40000
+     }
+  ]
+  },
+
+  {
+   "name": "Porco Rosso",
+   "img":  "https://static.wikia.nocookie.net/studio-ghibli/images/4/41/Porco_Rosso.jpg/revision/latest/scale-to-width-down/1200?cb=20220212051521",
+   "children": [
+     {
+       "name": "Proco Rosso",
+       "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Porco%20Rosso.png",
+       "size": 40000
+     },
+    {
+      "name": "Fio Piccolo",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Fio%20Piccolo.png",
+      "size": 40000
+    },
+    {
+      "name": "Gina",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Gina.png",
+      "size": 40000
+    }
+  ]
+  },
+
+
+  {
+  "name": "My Neighbor Totoro",
+  "img":"https://m.media-amazon.com/images/M/MV5BMjE3NzY5ODQwMV5BMl5BanBnXkFtZTcwNzY1NzcxNw@@._V1_.jpg",
+   "children": [
+    {
+      "name": "Catbus",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Catbus.png",
+      "size": 40000
+    },
+    {
+      "name": "Chibi Totoro",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Chibi_Totoro.png",
+      "size": 40000
+    },
+    {
+      "name": "Chu Totoro",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Chu%20Totoro.png",
+      "size": 40000
+    },
+    {
+      "name": "Kanta",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Kanta.png",
+      "size": 40000
+    },
+    {
+      "name": "Totoro",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Totoro.png",
+      "size": 40000
+    },
+    {
+      "name": "Satsuki",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Satsuki.png",
+      "size": 40000
+    },
+    {
+      "name": "Tatsuo",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Tatsuo.png",
+      "size": 40000
+    },
+    {
+      "name": "Yasuko",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Yasuko.png",
+      "size": 40000
+    },
+    {
+      "name": "Mei",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Mei.png",
+      "size": 40000
+    }
+   ]
+  },
+
+
+    {
+     "name": "The Cat Returns",
+     "img":"https://m.media-amazon.com/images/M/MV5BMTQ5ODMyNTgzOV5BMl5BanBnXkFtZTcwNDM4ODAyNw@@._V1_.jpg",
+     "children": [
+      {
+        "name": "Haru",
+        "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Haru.png",
+        "size": 40000
+      },
+      {
+        "name": "Baron",
+        "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Baron.png",
+        "size": 40000
+      },
+      {
+        "name": "Cat King",
+        "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Cat%20King.png",
+        "size": 40000
+      },
+      {
+        "name": "Muta",
+        "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Muta.png",
+        "size": 40000
+      },
+      {
+        "name": "Natori",
+        "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Natori.png",
+        "size": 40000
+      },
+      {
+        "name": "Niya",
+        "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Niya.png",
+        "size": 40000
+      }
+     ]
+   },
+
+
+  {
+  "name": "Spirited Away",
+  "img":"https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+   "children": [
+    {
+      "name": "Haku",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Haku.png",
+      "size": 40000
+    },
+    {
+      "name": "Chichiyaku",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Chichiyaku.png",
+      "size": 40000
+    },
+    {
+      "name": "Chihiro",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Chihiro.png",
+      "size": 40000
+    }
+   ]
+  },
+
+  {
+  "name": "Howl's Moving Castle",
+  "img":"https://lh4.googleusercontent.com/qPrrMipVudZg7js9J-OnYZI6pbMZaTDgqiqqn874zIbLeqPr7cwKIpE3Va434B1V2FaEDumvSoHuyA7sUot19dkHBBcSS8JSsi4Q7Fwojd0amtNmu339bSrPx5fOjiKSx-uJAa4I",
+   "children": [
+
+         {
+           "name": "Sophie",
+           "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Sophie.png",
+           "size": 40000
+         },
+         {
+           "name": "Turnip_head",
+           "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Turnip_head.png",
+           "size": 40000
+         },
+         {
+           "name": "Howl",
+           "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Howl.png",
+           "size": 40000
+         }
+   ]
+  },
+
+  {
+  "name": "Ponyo",
+  "img":"https://m.media-amazon.com/images/M/MV5BMjA5NzkxNTg2MF5BMl5BanBnXkFtZTcwMTA3MjU1Mg@@._V1_.jpg",
+   "children": [
+     {
+       "name": "Ponyo",
+       "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Ponyo.png",
+       "size": 40000
+     },
+    {
+      "name": "Sosuke",
+      "img":  "https://raw.githubusercontent.com/keke728/Web_Frontend/master/Ghibli/Sosuke.png",
+      "size": 40000
+    }
+   ]
+  }
+
+ ]
+}
