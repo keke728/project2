@@ -15,7 +15,7 @@ vis = d3.select("#vis").append("svg").attr("width", w).attr("height", h);
 
 
 // Load the data
-d3.json("https://github.com/keke728/ATLS5630_WebFrontendDevlopment/blob/master/Ghibli/ghibli.json", function(data) {
+d3.json("https://raw.githubusercontent.com/keke728/ATLS5630_WebFrontendDevlopment/master/Ghibli/ghibli.json", function(data) {
   root = data;
   root.fixed = true;
   root.x = w / 2;
